@@ -5,8 +5,10 @@ plugins:
   - jekyll-seo-tag
   
 #seo
-url: https://bratislava.coderdojo.sk/
-links:
- -https://www.facebook.com/CoderDojoBratislava
 lang: sk
+url: https://bratislava.coderdojo.sk/
+social: 
+  name: CoderDojo Bratislava
+  links:
+    - https://www.facebook.com/CoderDojoBratislava
 google_site_verification: HjwehqBFnFUdY4dtEqr3UJsRi9H6lJinEIdifO2IU_s
