@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: CoderDojo Bratislava
-description: Stránka klubu CoderDojo Bratislava
+description: Bezplatný klub programovania pre deti od 7 do 17 rokov
 plugins:
   - jekyll-seo-tag
   
