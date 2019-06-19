@@ -23,3 +23,5 @@ Môžete sa tiež [zapísať do nášho newslettra](http://eepurl.com/daODgz) kd
 
 [Pong – pre pokročilých](https://docs.google.com/document/d/1UPAS64Zjh9D3X8AcxM_AxhaeEgOrMfAL7P7tqbHMvYQ/edit?usp=sharing)
 
+### HTML
+[Základy HTML](https://repl.it/@eronisko/SeminarnyDen)
