@@ -2,9 +2,11 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 
  ----
 
- **❗ KRÁTKA LETNÁ PRESTÁVKA**
+#### ⛱ Letné CoderDojo
 
- Počas júla má naše CoderDojo prestávku. Tešíme sa na vás sa opäť **v piatok, 3. augusta**.
+V auguste sa stretávame **každý piatok od 16:00 do 18:00** v Campus Mlyny, 2. poschodie, Binarium, Staré Grunty 18, Bratislava ([🗺️ mapa](https://goo.gl/maps/CcdqtbSneoDbherk6))
+
+Ak sa by ste sa chceli zúčastniť, [dajte nám prosím vedieť](https://forms.gle/rwZM9srKVxNthffV9).
 
  ----
 
