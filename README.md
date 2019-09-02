@@ -2,11 +2,10 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 
  ----
 
-#### ⛱ Letné CoderDojo
+#### Stretnutia
 
-V auguste sa stretávame **každý piatok od 16:00 do 18:00** v Campus Mlyny, 2. poschodie, Binarium, Staré Grunty 18, Bratislava ([🗺️ mapa](https://goo.gl/maps/CcdqtbSneoDbherk6))
-
-Ak sa by ste sa chceli zúčastniť, [dajte nám prosím vedieť](https://forms.gle/rwZM9srKVxNthffV9).
+* **každý štvrtok medzi 16:00 a 18:00** v Campus City, 3. poschodie, Uniq, Staromestská 3, Bratislava ([🗺️ mapa](https://goo.gl/maps/3gqWUjenCqvoHJ6k8))
+* **každý piatok medzi 16:00 a 18:00** v Campus Mlyny, 2. poschodie, Binarium, Staré Grunty 18, Bratislava ([🗺️ mapa](https://goo.gl/maps/C3uAB7cwTMB2))
 
  ----
 
@@ -17,7 +16,7 @@ Ak sa by ste sa chceli zúčastniť, [dajte nám prosím vedieť](https://forms.
 
 ## Kontakt
 
-Všetky naše plánované stretnutia sú na Facebooku: [CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/).
+Facebook: [CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/).
 
 Môžete sa tiež [zapísať do nášho newslettra](http://eepurl.com/daODgz) kde príležitostne oznamujeme naše novinky.
 
