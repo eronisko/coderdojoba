@@ -6,7 +6,8 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 ⏸ Naše stretnutia sú kvôli koronavírusu pozastavené. Radi by sme sa vrátili k našim tradičným piatkovým stretnutiam počas leta.
 
 Budeme vás informovať v našom newsletteri a na Facebooku.
- ----
+
+----
 
 
 [Registrácia dieťaťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)
