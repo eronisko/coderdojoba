@@ -2,14 +2,10 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 
  ----
 
-#### Stretnutia
+## Stretnutia
 ⏸ Naše stretnutia sú kvôli koronavírusu pozastavené. Radi by sme sa vrátili k našim tradičným piatkovým stretnutiam počas leta.
 
 Budeme vás informovať v našom newsletteri a na Facebooku.
-<!--
-* **každý štvrtok medzi 16:00 a 18:00** v Campus City, 3. poschodie, Uniq, Staromestská 3, Bratislava ([🗺️ mapa](https://goo.gl/maps/3gqWUjenCqvoHJ6k8))
-* **každý piatok medzi 16:00 a 18:00** v Campus Mlyny, 2. poschodie, Binarium, Staré Grunty 18, Bratislava ([🗺️ mapa](https://goo.gl/maps/C3uAB7cwTMB2)) -->
-
  ----
 
 
