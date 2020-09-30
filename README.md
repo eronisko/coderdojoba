@@ -13,7 +13,7 @@ Stretávame sa **každý piatok od 17:00 do 18:00**
 Od piatka 2.10. oranizujeme počas našich stretnutí **workshopy pre
 začiatočníkov**.
 
-A nie je to len o programovaní! Ale aj o stavaní, systematickom premýšľaní a učení sa, ako sa vyrovnať s prekážkami.
+A nie je to len o programovaní! Ale aj o stavaní, systematickom premýšľaní a učení sa, ako sa vyrovnať s prekážkami. Viac informácií na [Discorde](https://discord.gg/aeMzMTN)!
 
 Odporúčame pre deti od 9 do 11 rokov.
 
