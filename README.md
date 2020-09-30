@@ -1,20 +1,32 @@
 CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 do 17 rokov. Kluby CoderDojo sú vedené dobrovoľníkmi a sú organizované formou “hackerspaceov”. Deti majú možnosť pracovať na svojich vlastných nápadoch a majú prístup k technickým mentorom z profesionálneho sveta.
 
- ----
-
-## Stretnutia
-⏸ Naše stretnutia sú kvôli koronavírusu pozastavené. Radi by sme sa vrátili k našim tradičným piatkovým stretnutiam počas leta.
-
-Budeme vás informovať v našom newsletteri a na Facebooku.
+<br/>
 
 ----
 
+## Pravidelné stretnutia
+Stretávame sa **každý piatok od 17:00 do 18:00**
+ našom [Discord serveri](https://discord.gg/aeMzMTN).
+
+
+#### 📢 Novinka!
+Od piatka 2.10. oranizujeme počas našich stretnutí **workshopy pre
+začiatočníkov**.
+
+A nie je to len o programovaní! Ale aj o stavaní, systematickom premýšľaní a učení sa, ako sa vyrovnať s prekážkami.
+
+Odporúčame pre deti od 9 do 11 rokov.
+
+----
+<br/>
 
 [Registrácia dieťaťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)
 
 [Staňte sa mentorom](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
 
 ## Kontakt
+
+Discord: https://discord.gg/aeMzMTN
 
 Facebook: [CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/).
 
