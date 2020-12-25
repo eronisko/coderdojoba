@@ -9,14 +9,10 @@ Stretávame sa **každý piatok od 16:00 do 18:00**
  našom [Discord serveri](https://discord.gg/aeMzMTN).
 
 
-#### 📢 Novinka!
-Od piatka 2.10. oranizujeme počas našich stretnutí **workshopy pre
-začiatočníkov**.
+#### 🎿 Zimná prestávka
+Najbližšie CoderDojo (online) sa bude konať 15.1.2020. Ak by ste mali chuť si niečo naprogramovať už predtým, ozvite sa nám na [Discorde](https://discord.gg/aeMzMTN) 🙂
 
-A nie je to len o programovaní! Ale aj o stavaní, systematickom premýšľaní a učení sa, ako sa vyrovnať s prekážkami. Viac informácií na [Discorde](https://discord.gg/aeMzMTN)!
-
-Odporúčame pre deti od 9 do 11 rokov.
-
+Prajeme vám pekné sviatky a tešíme sa na vás v januári!
 ----
 <br/>
 
