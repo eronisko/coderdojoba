@@ -8,12 +8,6 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 Stretávame sa **každý piatok od 16:00 do 18:00**
  našom [Discord serveri](https://discord.gg/aeMzMTN).
 
-
-#### 🎿 Zimná prestávka
-Najbližšie CoderDojo (online) sa bude konať 15.1.2020. Ak by ste mali chuť si niečo naprogramovať už predtým, ozvite sa nám na [Discorde](https://discord.gg/aeMzMTN) 🙂
-
-Prajeme vám pekné sviatky a tešíme sa na vás v januári!
-----
 <br/>
 
 [Registrácia dieťaťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)
