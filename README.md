@@ -11,7 +11,8 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 * ✅ 9.7. sa počujeme v bežnom čase
 * ✅ 16.7. sa počujeme v bežnom čase
 
-Budeme sa na vás tešiť v septembri a ak pandemická situácia dovolí tak už aj osobne! 🤞
+**Budeme sa na vás tešiť v septembri a ak pandemická situácia dovolí tak už aj osobne! 🤞**
+
 ---
 
 <!-- Stretávame sa **každý piatok od 16:00 do 18:00** našom [Discord serveri](https://discord.gg/aeMzMTN). -->
