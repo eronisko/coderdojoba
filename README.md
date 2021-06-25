@@ -5,7 +5,7 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 ----
 
 ## Pravidelné stretnutia
-📢 Od 16.7. máme letnú prestávku.
+📢 Po 16.7. máme letnú prestávku.
 
 * ❌ 2.7. CoderDojo bohužiaľ výnimočne nebude 
 * ✅ 9.7. sa počujeme v bežnom čase
