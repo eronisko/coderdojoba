@@ -5,18 +5,10 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 ----
 
 ## Pravidelné stretnutia
-📢 Po 16.7. máme letnú prestávku.
+Stretávame sa **každý piatok od 16:00 do 18:00** našom [Discord serveri](https://discord.gg/aeMzMTN).
 
-* ❌ 2.7. CoderDojo bohužiaľ výnimočne nebude 
-* ✅ 9.7. sa počujeme v bežnom čase
-* ✅ 16.7. sa počujeme v bežnom čase
+Chystáme aj osobné **stretnutia**. Sledujte tento web, [náš Facebook](https://www.facebook.com/CoderDojoBratislava) alebo [newsletter])(http://eepurl.com/daODgz) a dozviete sa medzi prvými 😀
 
-**Budeme sa na vás tešiť v septembri a ak pandemická situácia dovolí tak už aj osobne! 🤞**
-
----
-
-<!-- Stretávame sa **každý piatok od 16:00 do 18:00** našom [Discord serveri](https://discord.gg/aeMzMTN). -->
-Stretávame sa na našom [Discord serveri](https://discord.gg/aeMzMTN).
 
 <br/>
 
