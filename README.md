@@ -18,7 +18,7 @@ Stretávame sa **online každý piatok od 16:00 do 18:00** našom [Discord serve
 
 ## Kontakt
 
-Discord: https://discord.gg/aeMzMTN
+Discord: [https://discord.gg/aeMzMTN](https://discord.gg/aeMzMTN)
 
 Facebook: [CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/).
 
