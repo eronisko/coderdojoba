@@ -7,7 +7,7 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 ## Pravidelné stretnutia
 Stretávame sa **online každý piatok od 16:00 do 18:00** našom [Discord serveri](https://discord.gg/aeMzMTN).
 
-**Osobné stretnutia** mávame v obmedzenej kapacite v rovnakom čase. Ak sa chcete zúčastniť, [vyplňte prosím tento formulár](https://forms.gle/wzp2ABvG8eJ29dHY8) do štvrtka 18:00. Prihlasovať sa treba každý týždeň. Ak bude záujem väčší než naša kapacita, budeme zo záujemcov žrebovať.
+Mrzí nás to, ale kvôli zhoršenej pandemickej situácii sme **osobné stretnutia** pozastavili. Budeme radi, ak sa k nám pridáte na Discorde.
 
 
 <br/>
@@ -23,6 +23,13 @@ Discord: [https://discord.gg/aeMzMTN](https://discord.gg/aeMzMTN)
 Facebook: [CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/).
 
 Môžete sa tiež [zapísať do nášho newslettra](http://eepurl.com/daODgz).
+
+## Často kladené otázky
+
+### Platí sa niečo?
+Nie, neplatí. CoderDojo organizujeme dobrovoľne
+
+### Chcem sa stať mentorom/mentorkou. Musím vedieť programovať v XYZ?
 
 
 ## Materiály
