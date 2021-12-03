@@ -24,12 +24,12 @@ Facebook: [CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/).
 
 Môžete sa tiež [zapísať do nášho newslettra](http://eepurl.com/daODgz).
 
-## Často kladené otázky
+<!-- ## Často kladené otázky
 
 ### Platí sa niečo?
 Nie, neplatí. CoderDojo organizujeme dobrovoľne
 
-### Chcem sa stať mentorom/mentorkou. Musím vedieť programovať v XYZ?
+### Chcem sa stať mentorom/mentorkou. Musím vedieť programovať v XYZ? -->
 
 
 ## Materiály
