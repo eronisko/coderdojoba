@@ -7,6 +7,7 @@ CoderDojo je globálna sieť bezplatných programovacích klubov pre deti od 7 d
 ## 🎄 Vianočná prestávka
 
 💤 Najbližšie tri piatky (24.12., 31.12. a 7.12.) bude mať CoderDojo prestávku.
+
 🎯 Od 14.1. budú naše piatkové stretnutia na Discorde pokračovať v bežnom čase 16:00 — 18:00.
 
 ## Pravidelné stretnutia
