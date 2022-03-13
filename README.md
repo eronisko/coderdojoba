@@ -1,7 +1,7 @@
 ![Hlavička](/assets/img/dojo.6aad1d2.png)
 
 <p class="text-center text-lg">Programovanie pre všetkých od 7 do 17 rokov.</p>
-<div class="mt-4"></div>
+<div class="mt-16"></div>
 
 ## Aktuálne stretnutia
 
