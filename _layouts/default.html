@@ -58,9 +58,9 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        <p class="view mb-0 mt-2 {% if page.url == "/index.html" %}font-bold{% endif %}"><a href="/">Domov</a></p>
-        <p class="view mb-0 mt-2 {% if page.url == "/index.html" %}font-bold{% endif %}"><a href="/o-nas">O nás</a></p>
-        <p class="view mb-0 mt-2 {% if page.url == "/index.html" %}font-bold{% endif %}"><a href="/materialy">Materiály</a></p>
+        <p class="view mb-0 mt-2 {% if page.url == "/" %}font-bold{% endif %}"><a href="/">Domov</a></p>
+        <p class="view mb-0 mt-2 {% if page.url == "/o-nas" %}font-bold{% endif %}"><a href="/o-nas">O nás</a></p>
+        <p class="view mb-0 mt-2 {% if page.url == "/materialy" %}font-bold{% endif %}"><a href="/materialy">Materiály</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
