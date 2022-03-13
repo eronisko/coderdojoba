@@ -1,13 +1,14 @@
 ![Hlavička](/assets/img/dojo.6aad1d2.png)
 
 <p class="text-center text-lg">Programovanie pre všetkých od 7 do 17 rokov.</p>
+<div class="mt-4"></div>
 
 ## Aktuálne stretnutia
 
 Stretávame sa **online každý piatok od 16:00 do 18:00** našom [Discorde](https://discord.gg/PdndA9ACKJ).
 
-**[Registrácia dieťaťa**](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)\*\*
-**[Staňte sa mentorkou/mentorom](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)**
+[Zaregistrujte svoje dieťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)<br/>
+[Staňte sa mentorkou/mentorom](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
 
 ## Kde nás nájdete
 
