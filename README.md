@@ -1,6 +1,6 @@
-# Programovanie pre deti od 7 do 17 rokov.
+![Hlavička](/assets/img/dojo.6aad1d2.png)
 
----
+<p class="text-center">Programovací krúžok pre všetkých od 7 do 17 rokov.</p>
 
 ## Pravidelné stretnutia
 
