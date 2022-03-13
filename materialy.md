@@ -3,6 +3,8 @@ title: Materiály
 permalink: /materialy
 ---
 
+<div class="mt-32"></div>
+
 # Materiály
 
 Zbierka projektov a iných materiálov na inšpiráciu.

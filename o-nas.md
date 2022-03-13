@@ -3,6 +3,8 @@ title: O nás
 permalink: /o-nas
 ---
 
+<div class="mt-32"></div>
+
 # O nás
 
 CoderDojo je bezplatný programovací klub pre mladých ľudí od 7 do 17 rokov. Sme súčasťou [globálnej siete 2400 klubov](https://coderdojo.com/), ktoré sú všetky **bezplatné, otvorené pre všetkých a vedené dobrovoľníkmi**.
