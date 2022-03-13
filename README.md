@@ -23,18 +23,14 @@ Stretávame sa **online každý piatok od 16:00 do 18:00** našom [Discorde](htt
 
 ## Často kladené otázky
 
-### Platí sa niečo?
-
+**Platí sa niečo?** <br/>
 Nie, neplatí. Všetky kluby CoderDojo sú bezplatné, otvorené pre všetkých a vedené dobrovoľníkmi.
 
-### Môže sa pridať moja dcéra/syn, ak ešte nemá žiadne skúsenosti?
+**Môže sa pridať moja dcéra/syn, ak ešte nevie programovať?**<br/>
+Áno. CoderDojo odporúčame pre všetky deti od siedmych rokov, aj úplnym začiatočníkom.
 
-Skoro určite áno. CoderDojo odporúčame pre všetky deti od siedmych rokov, aj úplnym začiatočníkom.
-
-### Môžeme sa pripojiť aj neskôr v školskom roku?
-
+**Môžeme sa pripojiť aj neskôr v školskom roku?** <br/>
 Áno.
 
-### Chcem sa stať mentorkou/mentorom. Musím vedieť programovať v _XYZ_?
-
-Technické zázemie je výhodou, ale spolupracujeme s mentorkami a mentormi s rôznymi zručnosťami. Hlavnými predpokladmi sú trpezlivosť a chuť učiť.
+**Chcem sa stať mentorkou/mentorom. Musím vedieť programovať v _XYZ_?**<br/>
+Technické skúsenosti sú výhodou, ale spolupracujeme s mentorkami a mentormi s rôznych odvetví. Hlavnými predpokladmi sú trpezlivosť a chuť učiť.
