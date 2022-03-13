@@ -11,10 +11,15 @@ Kluby CoderDojo sú **neformálne stretnutia**, kde majú deti možnosť rozvíj
 
 Stretnutia majú formát **hackerspaceov**: téma je voľná a deti motivujeme k práci na vlastných projektoch a nápadoch.
 
-Na Slovensku funguje CoderDojo Bratislava od roku 2016. Patríme pod občianske združenie CoderDojo Slovensko (IČO 51949253).
+Na Slovensku funguje CoderDojo Bratislava od roku 2016. Patríme pod občianske združenie CoderDojo Slovensko.
 
 ## Kontakt
 
 **Ernest Walzel** (organizátor)<br>
 ☎ [0904 690 666](tel:+421904690666)<br>
 📧 ernest[zavináč]coderdojo.sk
+
+**CoderDojo Slovensko** (občianske združenie)<br>
+IČO 51949253<br>
+Staré Grunty 205/18,<br>
+841 04 Bratislava
