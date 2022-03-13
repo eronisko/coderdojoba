@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: CoderDojo Bratislava
+logo: /img/logo.svg
 description: Bezplatný klub programovania pre deti od 7 do 17 rokov
 github:
   is_project_page: false
