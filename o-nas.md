@@ -3,7 +3,7 @@ title: O nás
 permalink: /o-nas
 ---
 
-<div class="mt-32"></div>
+<div class="mt-16"></div>
 
 # O nás
 
