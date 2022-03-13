@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.a:hover {
+  font-weight: inherit;
+}
+
 .text-center {
   text-align: center;
 }
@@ -10,4 +14,21 @@
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+// Font Weight
+.font-bold {
+  font-weight: 700;
 }
