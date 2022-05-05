@@ -5,7 +5,14 @@
 
 ## Aktuálne stretnutia
 
-Stretávame sa **online každý piatok od 16:00 do 18:00** našom [Discorde](https://discord.gg/PdndA9ACKJ).
+Stretávame sa **každý piatok od 16:00 do 18:00** v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
+
+Na piatkové stretnutia sa dá pripojiť aj online (v rovnakom čase) na našom [Discorde](https://discord.gg/PdndA9ACKJ).
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
+Ми також раді приймати учасників з України.
+
+<br/>
 
 [Zaregistrujte svoje dieťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)<br/>
 [Staňte sa mentorkou/mentorom](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
