@@ -5,9 +5,14 @@
 
 ## Aktuálne stretnutia
 
+<!--
 Stretávame sa **každý piatok od 16:00 do 18:00** v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
 
 Na piatkové stretnutia sa dá pripojiť aj online (v rovnakom čase) na našom [Discorde](https://discord.gg/PdndA9ACKJ).
+
+-->
+
+⛱ Počas letných prázdnin má naše CoderDojo prestávku. **Najbližšie stretnutie bude 2. septembra**. Dovtedy sa s nami môžete spojiť na [Discorde](https://discord.gg/PdndA9ACKJ).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
