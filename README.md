@@ -12,7 +12,7 @@ Na piatkové stretnutia sa dá pripojiť aj online (v rovnakom čase) na našom 
 
 -->
 
-⛱ Počas letných prázdnin má naše CoderDojo prestávku. **Najbližšie stretnutie bude 2. septembra**. Dovtedy sa s nami môžete spojiť na [Discorde](https://discord.gg/PdndA9ACKJ).
+⛱ Počas letných prázdnin má naše CoderDojo prestávku. **Najbližšie stretnutie bude ~~2.~~ 16. septembra**. Dovtedy sa s nami môžete spojiť na [Discorde](https://discord.gg/PdndA9ACKJ).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
