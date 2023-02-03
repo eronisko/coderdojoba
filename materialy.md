@@ -9,6 +9,11 @@ permalink: /materialy
 
 Zbierka projektov a iných materiálov na inšpiráciu.
 
+### Astro Pi: Mission Zero
+
+[https://rpf.io/mzcode](https://rpf.io/mzcode)
+Classroom code je **dune-band**.
+
 ### Scratch
 
 [Naháňačka – pre začiatočníkov](https://docs.google.com/document/d/1YQSOOQEWbXsx7pRl98ljtWHRBQPrEXM7sof56AoU71Y/edit?usp=sharing)<br>
