@@ -11,7 +11,7 @@ Zbierka projektov a iných materiálov na inšpiráciu.
 
 ### Astro Pi: Mission Zero
 
-[https://rpf.io/mzcode](https://rpf.io/mzcode)
+[Návod](https://projects.raspberrypi.org/en/projects/astro-pi-mission-zero/0)
 Classroom code je **dune-band**.
 
 ### Scratch
