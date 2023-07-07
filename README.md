@@ -5,7 +5,13 @@
 
 ## Aktuálne stretnutia
 
-Stretávame sa **každý piatok od 16:00 do 18:00** v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
+V CoderDojo Bratislava máme letnú prestávku.
+
+**Najblizšie sa stretneme v piatok 8.9.**
+
+Želáme vám krásne leto a tešíme sa na vás!
+
+<!-- Stretávame sa **každý piatok od 16:00 do 18:00** v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)). -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
