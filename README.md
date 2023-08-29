@@ -7,7 +7,7 @@
 
 V CoderDojo Bratislava máme letnú prestávku.
 
-**Najblizšie sa stretneme v piatok 8.9.**
+**Najblizšie sa stretneme v piatok ~~8.9~~ 15.9.**
 
 Želáme vám krásne leto a tešíme sa na vás!
 
