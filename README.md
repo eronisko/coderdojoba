@@ -11,16 +11,18 @@ Stretávame sa počas školského roku **každý piatok od 16:00 do 18:00** v Ca
 Ми також раді приймати учасників з України.
 
 
-<br />
+---
+
 ### Dotazníky Meet & Code
 [Pred](https://forms.office.com/pages/responsepage.aspx?id=NzvExTnpJUmXn_P-L54j2RzhxfQ-5g5IrBopg5bXnglURUU1MDhaWVVWUDZETkRCTktCVElSVzRPRS4u)
+<br/>
 [Po](https://forms.office.com/pages/responsepage.aspx?id=NzvExTnpJUmXn_P-L54j2RzhxfQ-5g5IrBopg5bXnglUNVRLOVlMNEtCRU5aTlIzT1hNUlYyTElTVC4u)
 
-Názov organizácie, ktorá organizuje tvoje podujatie: **CoderDojo Slovensko**
-Názov podujatia, ktorého se zúčastňuješ: **Nauč sa programovať v CoderDojo**
-Identifikačné číslo (ID) neziskovej organizácie: **SK01848**
+- Názov organizácie, ktorá organizuje tvoje podujatie<br>**CoderDojo Slovensko**
+- Názov podujatia, ktorého se zúčastňuješ<br>**Nauč sa programovať v CoderDojo**
+- Identifikačné číslo (ID) neziskovej organizácie<br>**SK01848**
 
-<br/>
+---
 
 [Zaregistrujte svoje dieťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)<br/>
 [Staňte sa mentorkou/mentorom](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
