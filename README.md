@@ -5,10 +5,20 @@
 
 ## Aktuálne stretnutia
 
-Stretávame sa **každý piatok od 16:00 do 18:00** (počas školského roku) v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
+Stretávame sa počas školského roku **každý piatok od 16:00 do 18:00** v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
+
+
+<br />
+### Dotazníky Meet & Code
+[Pred](https://forms.office.com/pages/responsepage.aspx?id=NzvExTnpJUmXn_P-L54j2RzhxfQ-5g5IrBopg5bXnglURUU1MDhaWVVWUDZETkRCTktCVElSVzRPRS4u)
+[Po](https://forms.office.com/pages/responsepage.aspx?id=NzvExTnpJUmXn_P-L54j2RzhxfQ-5g5IrBopg5bXnglUNVRLOVlMNEtCRU5aTlIzT1hNUlYyTElTVC4u)
+
+Názov organizácie, ktorá organizuje tvoje podujatie: **CoderDojo Slovensko**
+Názov podujatia, ktorého se zúčastňuješ: **Nauč sa programovať v CoderDojo**
+Identifikačné číslo (ID) neziskovej organizácie: **SK01848**
 
 <br/>
 
