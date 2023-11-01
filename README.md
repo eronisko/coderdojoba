@@ -19,14 +19,14 @@ Stretávame sa počas školského roku **každý piatok od 16:00 do 18:00** v Ca
 
 ## Kde nás nájdete
 
-**Facebook**<br/>
-[CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/)
-
 **Discord**<br/>
 [https://discord.gg/PdndA9ACKJ](https://discord.gg/PdndA9ACKJ)
 
 **Newsletter**<br/>
-[Zapíšte sa](http://eepurl.com/daODgz)
+[Prihláste sa k odberu](http://eepurl.com/daODgz)
+
+**Facebook**<br/>
+[CoderDojo Bratislava](https://www.facebook.com/CoderDojoBratislava/)
 
 ## Často kladené otázky
 
