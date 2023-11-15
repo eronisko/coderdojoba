@@ -5,7 +5,11 @@
 
 ## Aktuálne stretnutia
 
-Stretávame sa počas školského roku **každý piatok od 16:00 do 18:00** v Campuse Mlyny na 2. poschodí bratislavského Binaria ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
+**ℹ️ Tento piatok (17.11.) CoderDojo nebude.**
+
+Stretávame sa počas **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
+
+**Miesto:** Campus Mlyny, Binarium, 2. poschodie ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
