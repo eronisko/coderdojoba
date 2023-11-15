@@ -34,6 +34,9 @@ Stretávame sa počas **každý piatok od 16:00 do 18:00** okrem školských pr�
 
 ## Často kladené otázky
 
+**Bude CoderDojo aj tento piatok?**<br/>
+CoderDojo sa koná každý piatok okrem školských prázdnin a štátnych sviatkov.
+
 **Platí sa niečo?** <br/>
 Nie, neplatí. Všetky kluby CoderDojo sú bezplatné, otvorené pre všetkých a vedené dobrovoľníkmi.
 
