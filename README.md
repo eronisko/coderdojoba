@@ -5,8 +5,6 @@
 
 ## Aktuálne stretnutia
 
-**ℹ️ Tento piatok (17.11.) CoderDojo nebude.**
-
 Stretávame sa počas **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
 
 **Miesto:** Campus Mlyny, Binarium, 2. poschodie ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
