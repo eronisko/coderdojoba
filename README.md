@@ -3,11 +3,12 @@
 <p class="text-center text-lg">Programovanie pre všetkých od 7 do 17 rokov.</p>
 <div class="mt-16"></div>
 
-## Aktuálne stretnutia
+## Aktuálne
 
-Stretávame sa počas **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
+- Prvé stretnutie po letných prázdninách bude v **piatok 20.9.**
+- **Hľadáme nový priestor!** Ak o niečom viete, [dajte nám prosím vedieť](mailto:ernest@coderdojo.sk).
 
-**Miesto:** Campus Mlyny, Binarium, 2. poschodie ([mapa](https://goo.gl/maps/C3uAB7cwTMB2)).
+<!-- Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov. -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
