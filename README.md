@@ -5,18 +5,19 @@
 
 ## Aktuálne
 
-- Prvé stretnutie po letných prázdninách bude v **piatok 20.9.**
-- **Hľadáme nový priestor!** Ak o niečom viete, [dajte nám prosím vedieť](mailto:ernest@coderdojo.sk).
+Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
 
-<!-- Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov. -->
+Miesto: [Fakulta matematiky, fyziky a informatiky UK](https://maps.app.goo.gl/a1B6cJznRLdm39rZ6), miestnosť **F1 108**
+
+Pred prvým príchodom sa prosím [zaregistrujte](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="12px">
 Ми також раді приймати учасників з України.
 
 ---
 
-[Zaregistrujte svoje dieťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)<br/>
-[Staňte sa mentorkou/mentorom](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
+[Registrácia dieťaťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)<br/>
+[Registrácia mentora/mentorky](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
 
 ---
 
