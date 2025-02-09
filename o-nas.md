@@ -23,5 +23,5 @@ Na Slovensku funguje CoderDojo Bratislava od roku 2016. Patríme pod občianske 
 
 **CoderDojo Slovensko** (občianske združenie)<br>
 IČO 51949253<br>
-Ondrejovova 24<br>
-821 03 Bratislava
+Staré Grunty 205/18,<br>
+841 04 Bratislava
