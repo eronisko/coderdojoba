@@ -46,7 +46,7 @@ Nie, neplatí. Všetky kluby CoderDojo sú bezplatné, otvorené pre všetkých 
 **Chcem sa stať mentorkou/mentorom. Musím vedieť programovať v _XYZ_?**<br/>
 Technické skúsenosti sú výhodou, ale spolupracujeme s mentorkami a mentormi s rôznych odvetví. Hlavnými predpokladmi sú trpezlivosť a chuť učiť.
 
-#### Ako vás môžem podporiť?
-Radi medzi sebou privítame [nových mentorov](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform), prípadne iných dobrovoľníkov, ktorí sú ochotní pomôcť nám s organizáciou.
+**Ako vás môžem podporiť?**<br/>
+Radi medzi sebou privítame [nových mentorov](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform), a iných dobrovoľníkov, ktorí sú ochotní pomôcť nám s organizáciou.
 
 Ak nás chcete podporiť finančne, môžete tak urobiť na tejto stránke: https://coderdojo.darujme.sk/podporte-nas-353cc/
