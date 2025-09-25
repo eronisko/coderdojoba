@@ -5,9 +5,7 @@
 
 ## Aktuálne
 
-Prvé stretnutie v tomto školskom roku bude **26.9.** v rovnakom čase: **od 16:00 do 18:00**.
-
-<!-- Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov. -->
+Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
 
 Miesto: [Fakulta matematiky, fyziky a informatiky UK](https://maps.app.goo.gl/a1B6cJznRLdm39rZ6), miestnosť **skleník** (prízemie)
 
