@@ -5,12 +5,6 @@
 
 ## Aktuálne
 
-❄ **Zimná prestávka** -- CoderDojo bude pokračovať od **9.1.2026**.
-
-Tešíme sa na vás!
-
----
-
 Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
 
 Miesto: [Fakulta matematiky, fyziky a informatiky UK](https://maps.app.goo.gl/a1B6cJznRLdm39rZ6), miestnosť **skleník** (prízemie)
