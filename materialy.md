@@ -9,11 +9,6 @@ permalink: /materialy
 
 Zbierka projektov a iných materiálov na inšpiráciu.
 
-### Astro Pi: Mission Zero
-
-[Návod](https://projects.raspberrypi.org/en/projects/astro-pi-mission-zero/0)
-Classroom code je **dune-band**.
-
 ### Scratch
 
 [Naháňačka – pre začiatočníkov](https://docs.google.com/document/d/1YQSOOQEWbXsx7pRl98ljtWHRBQPrEXM7sof56AoU71Y/edit?usp=sharing)<br>
