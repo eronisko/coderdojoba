@@ -11,13 +11,13 @@ Tešíme sa na vás!
 
 ---
 
-<!-- Stretávame sa **každý piatok od 16:00 do 18:00** okrem školských prázdnin a sviatkov.
+Stretneme sa **už tento piatok (4.9.) od 16:00 do 18:00**!
 
 Miesto: [Fakulta matematiky, fyziky a informatiky UK](https://maps.app.goo.gl/a1B6cJznRLdm39rZ6), miestnosť **skleník** (prízemie)
 
 Pred prvým príchodom sa prosím [zaregistrujte](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform).
 
---- -->
+---
 
 [Registrácia dieťaťa](https://docs.google.com/forms/d/e/1FAIpQLSfV8cmF9KktHqPk3SQiOqjbeJDS50jD4XcU7haI6MCXIP4k6w/viewform)<br/>
 [Registrácia mentora/mentorky](https://docs.google.com/forms/d/e/1FAIpQLSf_SYdv5ENVy5CTTLhxltdLArdJAqKsWpGDVH6pUFYf5HLu1A/viewform)
