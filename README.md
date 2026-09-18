@@ -5,13 +5,7 @@
 
 ## Aktuálne
 
-☀️ **Letné prázdniny** -- Počas letných prázdnin má naše dojo prestávku. Budeme pokračovať opäť v septembri.
-
-Tešíme sa na vás!
-
----
-
-Stretneme sa **už tento piatok (4.9.) od 16:00 do 18:00**!
+Stretávame sa **každý štvrtok od 16:00 do 18:00** (okrem sviatkov a školských prázdnin)!
 
 Miesto: [Fakulta matematiky, fyziky a informatiky UK](https://maps.app.goo.gl/a1B6cJznRLdm39rZ6), miestnosť **skleník** (prízemie)
 
@@ -26,16 +20,17 @@ Pred prvým príchodom sa prosím [zaregistrujte](https://docs.google.com/forms/
 
 ## Kde nás nájdete
 
+**Newsletter**<br/>
+Novinky a organizačné zmeny. Náš hlavný komunikačný kanál<br>
+[Prihláste sa k odberu](http://eepurl.com/daODgz)
+
 **Discord**<br/>
 [https://discord.gg/PdndA9ACKJ](https://discord.gg/PdndA9ACKJ)
 
-**Newsletter**<br/>
-[Prihláste sa k odberu](http://eepurl.com/daODgz)
-
 ## Často kladené otázky
 
-**Bude CoderDojo aj tento piatok?**<br/>
-CoderDojo sa koná každý piatok okrem školských prázdnin a štátnych sviatkov.
+**Bude CoderDojo aj tento štvrtok?**<br/>
+CoderDojo sa koná každý štvrtok okrem dní školských prázdnin a sviatkov.
 
 **Platí sa niečo?** <br/>
 Nie, neplatí. Všetky kluby CoderDojo sú bezplatné, otvorené pre všetkých a vedené dobrovoľníkmi.
